@@ -51,12 +51,12 @@
           "vaul": "^1.1.2"
       },
       "devDependencies": {
-          "@types/node": "^20.10.0",
-          "@vitejs/plugin-react-swc": "^3.10.2",
-          "vite": "^5.12.0"
+          "vite": "^5.12.10",
+          "@vitejs/plugin-react-swc": "^3.11.0",
+          "@types/node": "^20.10.0"
       },
       "scripts": {
-          "dev": "vite",
+          "dev": "npx vite",
           "build": "npx vite build"
       }
   }
